@@ -42,7 +42,7 @@ const LoginPage: React.FC = () => {
           </div>
         </div>
         <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">
-          {isSignup ? 'Create your account' : 'Sign in to Metricool'}
+          {isSignup ? 'Create your account' : 'Sign in to AI Content Recommendation system'}
         </h2>
         <p className="mt-2 text-center text-sm text-gray-600">
           {isSignup ? 'Join us to manage your social media accounts' : 'Manage all your social media accounts in one place'}
